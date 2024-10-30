@@ -1,0 +1,16 @@
+{
+    "name": "ghaxlt/leadtrail",
+    "autoload": {
+        "psr-4": {
+            "Ghaxlt\\Leadtrail\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ghaxlt"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
